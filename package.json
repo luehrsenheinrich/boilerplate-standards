@@ -1,10 +1,10 @@
 {
   "name": "boilerplate-standards",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Some standard configurations for our projects and boilerplates.",
   "scripts": {
     "release": "dotenv release-it --only-version",
-		"test" : "echo 'We should probably implement some tests.'"
+    "test": "echo 'We should probably implement some tests.'"
   },
   "repository": {
     "type": "git",
