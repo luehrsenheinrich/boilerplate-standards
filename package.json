@@ -1,6 +1,6 @@
 {
   "name": "@luehrsenheinrich/boilerplate-standards",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Some standard configurations for our projects and boilerplates.",
   "scripts": {
     "release": "dotenv release-it -- --only-version",
