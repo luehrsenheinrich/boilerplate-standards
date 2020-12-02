@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/luehrsenheinrich/boilerplate-standards.git"
   },
+	"publishConfig": {
+  	"registry":"https://npm.pkg.github.com"
+	},
   "keywords": [
     "boilerplate",
     "wordpress",
