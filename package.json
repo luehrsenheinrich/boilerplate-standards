@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate-standards",
+  "name": "@luehrsenheinrich/boilerplate-standards",
   "version": "0.0.3",
   "description": "Some standard configurations for our projects and boilerplates.",
   "scripts": {
